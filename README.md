@@ -6,5 +6,5 @@ LLC TravelGeorgia ქმნის ახალ და მაშტაბურ �
 ძრავა: Wordpress
 Tema: Themeforest.net
 579 200 101
-
+http://www.tripgeorgia.ru
 copyright
